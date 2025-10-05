@@ -57,7 +57,5 @@ Développeur Full Stack avec une expertise en JavaScript/TypeScript et DevOps. P
 
 📧 **Email :** hamdidrine1@gmail.com  
 🌐 **Portfolio :** https://hamdidev.me  
-💼 **LinkedIn :** [Votre profil LinkedIn]  
-🐙 **GitHub :** [Votre profil GitHub]
 
 *Disponible pour de nouvelles opportunités challengeantes*
