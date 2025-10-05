@@ -1,16 +1,27 @@
-# DRINE Hamdi
-**Développeur Full Stack JavaScript & DevOps **
+<h1 align="center">DRINE Hamdi</h1>
+<h3 align="center">Développeur Full Stack JavaScript & DevOps</h3>
 
-📧 **hamdidrine1@gmail.com** | 🌐 **https://hamdidev.me** | 📍 **Tunisie**
+<p align="center">
+  <a href="mailto:hamdidrine1@gmail.com">📧 Email</a> •
+  <a href="https://hamdidev.me">🌐 Portfolio</a> •
+  <a href="#">📍 Tunisie</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DRINEHamdi&color=blue&style=flat" alt="Profile views" />
+</p>
 
 ---
-<div align="center">
-👁️ **Profile Views** ![Profile Views](https://komarev.com/ghpvc/?username=hamdi235050&color=blue&style=flat)
-  </div>
-## 👨‍💻 Profil
 
-Développeur Full Stack avec une expertise en JavaScript/TypeScript et DevOps. Passionné par la création de solutions techniques robustes et évolutives. Je recherche une opportunité pour contribuer à des projets ambitieux et continuer à me perfectionner dans un environnement dynamique.
+## 🚀 À Propos
 
+<p align="center">
+Développeur Full Stack avec une expertise en JavaScript/TypeScript et DevOps.<br>
+Passionné par la création de solutions techniques robustes et évolutives.
+</p>
 
+---
 
-*Disponible pour de nouvelles opportunités challengeantes*
+<p align="center">
+<strong>Disponible pour de nouvelles opportunités challengeantes</strong>
+</p>
