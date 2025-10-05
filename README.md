@@ -1,5 +1,5 @@
 # DRINE Hamdi
-**Développeur Full Stack JavaScript & DevOps Passionné**
+**Développeur Full Stack JavaScript & DevOps **
 
 📧 **hamdidrine1@gmail.com** | 🌐 **https://hamdidev.me** | 📍 **Tunisie**
 
