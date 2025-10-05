@@ -1,5 +1,5 @@
 <h1 align="center">DRINE Hamdi</h1>
-<h3 align="center">Développeur Full Stack JavaScript & DevOps</h3>
+<h3 align="center">Développeur Full Stack React & DevOps</h3>
 
 <p align="center">
   <a href="mailto:hamdidrine1@gmail.com">📧 Email</a> •
