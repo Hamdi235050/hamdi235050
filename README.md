@@ -15,7 +15,6 @@ I enjoy designing microservices architectures, implementing CI/CD pipelines, con
 - 🌍 Based in **Tunisia**
 - 📧 **hamdidrine1@gmail.com**
 - 📱 **+216 56 401 011**
-- 🔗 [Portfolio](https://your-portfolio-link.com) *(replace with your actual link)*
 - 💼 Open to **remote opportunities**, full-time positions, or freelance projects
 
 ---
