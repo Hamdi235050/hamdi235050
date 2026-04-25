@@ -57,7 +57,7 @@ Scrum / Agile • Monorepo (PNPM) • Firebase Cloud Messaging • Microservices
 ### 🤝 Let's Connect
 
 - 📧 Email: hamdidrine1@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) *(add your actual link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamdi-d-668496150/) *(add your actual link)*
 - 🌐 Portfolio: [Add your portfolio link]
 
 ---
