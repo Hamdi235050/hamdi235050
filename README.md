@@ -52,18 +52,8 @@ Scrum / Agile • Monorepo (PNPM) • Firebase Cloud Messaging • Microservices
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdi235050&layout=compact&theme=radical)
 
 ---
-### 📊 GitHub Activity Breakdown
-
-![GitHub Activity Radar](https://i.imgur.com/8eZEr.png)  
-<!-- Remplace le lien ci-dessus par le vrai lien direct de ton image (uploadée sur GitHub ou Imgur) -->
-
-**My contribution focus:**
-- **68%** Commits  
-- **28%** Pull Requests  
-- **4%** Code Review  
-
-This chart highlights my strong focus on **active development and code contributions**, with solid involvement in pull requests and collaborative code reviews.
-
+ 
+ 
 ### 🤝 Let's Connect
 
 - 📧 Email: hamdidrine1@gmail.com
